@@ -1,10 +1,8 @@
 package com.cengage.stefdefinitions;
-
 import com.cengage.actions.HealthCheckerCsg;
 import cucumber.api.java.en.*;
 
-public class CsgStefDef  extends HealthCheckerCsg {
-
+ class CsgStefDef  extends HealthCheckerCsg {
 
     HealthCheckerCsg csg = new HealthCheckerCsg();
 
