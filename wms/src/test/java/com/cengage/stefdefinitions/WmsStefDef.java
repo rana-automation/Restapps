@@ -1,9 +1,10 @@
 package com.cengage.stefdefinitions;
 
 import com.cengage.actions.HealthCheckerWms;
-import cucumber.api.java.en.*;
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.When;
 
- class WmsStefDef extends HealthCheckerWms {
+public class WmsStefdef extends HealthCheckerWms {
 
 
     @When("^We Launch wms Services$")

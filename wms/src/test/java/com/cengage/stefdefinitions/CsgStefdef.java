@@ -1,8 +1,11 @@
 package com.cengage.stefdefinitions;
-import com.cengage.actions.HealthCheckerCsg;
-import cucumber.api.java.en.*;
 
- class CsgStefDef  extends HealthCheckerCsg {
+import com.cengage.actions.HealthCheckerCsg;
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class CsgStefdef extends HealthCheckerCsg {
 
     HealthCheckerCsg csg = new HealthCheckerCsg();
 
@@ -63,6 +66,5 @@ import cucumber.api.java.en.*;
     {
         csg.validatemdsEndPoint();
     }
-
 
 }
