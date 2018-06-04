@@ -69,63 +69,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 2945992264,
+  "duration": 3130610879,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 56605,
+  "duration": 53191,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 25884,
+  "duration": 18489,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 23325,
+  "duration": 17067,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 24177,
+  "duration": 22471,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 23324,
+  "duration": 25885,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 21902,
+  "duration": 24178,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 16213,
+  "duration": 27307,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 27306,
+  "duration": 31858,
   "status": "passed"
 });
 formatter.scenario({
@@ -191,63 +191,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 1644816598,
+  "duration": 1646123620,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 57742,
+  "duration": 45226,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 42098,
+  "duration": 25600,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 34133,
+  "duration": 22756,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 34987,
+  "duration": 26169,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 33849,
+  "duration": 24178,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 32711,
+  "duration": 21618,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 32995,
+  "duration": 23325,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 103538,
+  "duration": 22187,
   "status": "passed"
 });
 formatter.scenario({
@@ -313,63 +313,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 1724978140,
+  "duration": 1589668810,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 47502,
+  "duration": 58027,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 36409,
+  "duration": 44089,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 58880,
+  "duration": 46933,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 53191,
+  "duration": 35271,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 52907,
+  "duration": 38116,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 58596,
+  "duration": 56320,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 54613,
+  "duration": 68266,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 67697,
+  "duration": 83058,
   "status": "passed"
 });
 formatter.scenario({
@@ -435,63 +435,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 1658250622,
+  "duration": 1673466689,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 47787,
+  "duration": 65991,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 56320,
+  "duration": 81351,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 51769,
+  "duration": 24178,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 48640,
+  "duration": 20480,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 64284,
+  "duration": 21049,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 43805,
+  "duration": 18773,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 38400,
+  "duration": 18489,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 36409,
+  "duration": 17635,
   "status": "passed"
 });
 formatter.scenario({
@@ -557,63 +557,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 1880811554,
+  "duration": 1620731841,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 23324,
+  "duration": 53192,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 18774,
+  "duration": 41529,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 19911,
+  "duration": 51484,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 19342,
+  "duration": 54898,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 21334,
+  "duration": 66275,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 19058,
+  "duration": 59164,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 19058,
+  "duration": 52622,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 18773,
+  "duration": 51769,
   "status": "passed"
 });
 formatter.scenario({
@@ -679,42 +679,42 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 2068749918,
+  "duration": 1621324907,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 44089,
+  "duration": 43804,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 37547,
+  "duration": 37546,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 35556,
+  "duration": 53476,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 35840,
+  "duration": 43804,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 35271,
+  "duration": 36978,
   "status": "passed"
 });
 formatter.match({
@@ -728,14 +728,14 @@ formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 36409,
+  "duration": 38969,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 33564,
+  "duration": 22756,
   "status": "passed"
 });
 formatter.scenario({
@@ -801,63 +801,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 1537505412,
+  "duration": 1554491007,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 42667,
+  "duration": 42666,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 34986,
+  "duration": 37262,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 35271,
+  "duration": 35555,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 35556,
+  "duration": 34987,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 36125,
+  "duration": 77653,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 46080,
+  "duration": 44658,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 55182,
+  "duration": 45227,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 40106,
+  "duration": 38400,
   "status": "passed"
 });
 formatter.scenario({
@@ -923,63 +923,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 1702081791,
+  "duration": 1584142625,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 48640,
+  "duration": 53191,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 38969,
+  "duration": 43236,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 37546,
+  "duration": 37831,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 52906,
+  "duration": 65138,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 48924,
+  "duration": 62578,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 39823,
+  "duration": 114062,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 38685,
+  "duration": 70542,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 37547,
+  "duration": 58880,
   "status": "passed"
 });
 formatter.scenario({
@@ -1045,63 +1045,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 1973495759,
+  "duration": 1669513765,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 50062,
+  "duration": 64000,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 39253,
+  "duration": 44089,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 52623,
+  "duration": 44658,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 34133,
+  "duration": 37831,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 43520,
+  "duration": 68266,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 42098,
+  "duration": 43804,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 36978,
+  "duration": 38400,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 36694,
+  "duration": 34417,
   "status": "passed"
 });
 formatter.scenario({
@@ -1167,63 +1167,63 @@ formatter.match({
   "location": "CsgStefDef.we_Launch_CSG_Services()"
 });
 formatter.result({
-  "duration": 2024752065,
+  "duration": 1646016385,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mls_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 56604,
+  "duration": 58311,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_metadata_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 48355,
+  "duration": 45511,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_geyser_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 37831,
+  "duration": 46649,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 36124,
+  "duration": 52054,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_cgiregistry_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 32711,
+  "duration": 78223,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_ulr_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 35840,
+  "duration": 52053,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_csg_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 33849,
+  "duration": 53191,
   "status": "passed"
 });
 formatter.match({
   "location": "CsgStefDef.validate_mds_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 34418,
+  "duration": 60018,
   "status": "passed"
 });
 formatter.uri("wmshealthChecker.feature");
@@ -1272,28 +1272,586 @@ formatter.match({
   "location": "WmsStefDef.we_Launch_wms_Services()"
 });
 formatter.result({
-  "duration": 2010734930,
+  "duration": 2115088180,
   "status": "passed"
 });
 formatter.match({
   "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 54613,
+  "duration": 58026,
   "status": "passed"
 });
 formatter.match({
   "location": "WmsStefDef.validate_wms_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 25316,
+  "duration": 30435,
   "status": "passed"
 });
 formatter.match({
   "location": "WmsStefDef.validate_ws_Endpoint_Address()"
 });
 formatter.result({
-  "duration": 27591,
+  "duration": 34418,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 10,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 9,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 11,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 12,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 14,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1556269069,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 110649,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 33849,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 34134,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 16,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 15,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 17,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 18,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 20,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1561042045,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 30435,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 16782,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 13369,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 22,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 21,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 23,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 24,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 25,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 26,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1568419110,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 40960,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 31288,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 30720,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 28,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 27,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 29,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 30,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 31,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 32,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1531442195,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 36124,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 30720,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 28729,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 34,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 33,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 35,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 36,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 37,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 38,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1623396231,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 13938,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 9102,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 11093,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 40,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 39,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 41,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 42,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 43,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 44,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1757199714,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 64569,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 31858,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 30435,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 46,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 45,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 47,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 48,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 49,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 50,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1704935622,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 42097,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 35271,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 55467,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 52,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 51,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 53,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 54,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 55,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 56,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1868406936,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 54329,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 63146,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 62862,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 58,
+  "name": "Validate wms EndPoints",
+  "description": "",
+  "id": "validate-wms-services-health;validate-wms-endpoints",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 57,
+      "name": "@wmsHealthChecker"
+    }
+  ]
+});
+formatter.step({
+  "line": 59,
+  "name": "We Launch wms Services",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 60,
+  "name": "Validate wms-tools Endpoint Address",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 61,
+  "name": "Validate wms Endpoint Address",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 62,
+  "name": "Validate ws Endpoint Address",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "WmsStefDef.we_Launch_wms_Services()"
+});
+formatter.result({
+  "duration": 1613220804,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_tools_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 92445,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_wms_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 210204,
+  "status": "passed"
+});
+formatter.match({
+  "location": "WmsStefDef.validate_ws_Endpoint_Address()"
+});
+formatter.result({
+  "duration": 38969,
   "status": "passed"
 });
 });

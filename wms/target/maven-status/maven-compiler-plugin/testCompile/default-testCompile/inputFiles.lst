@@ -1,6 +1,6 @@
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerLcsv2.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerLcszip.java
-D:\wms\src\test\java\com\cengage\stefdefinitions\CsgStefdef.java
+D:\wms\src\test\java\com\cengage\stefdefinitions\CsgStefDef.java
 D:\wms\src\test\java\com\cengage\actions\Basic.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerIfvs.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerOmnibus.java
@@ -8,6 +8,7 @@ D:\wms\src\test\java\com\cengage\actions\HealthCheckerParker.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerWms.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerLcxtx.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerFvs.java
+D:\wms\src\test\java\com\cengage\stefdefinitions\WmsStefDef.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerBulkupload.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerMls.java
 D:\wms\src\test\java\com\cengage\actions\HealthCheckerCsg.java
