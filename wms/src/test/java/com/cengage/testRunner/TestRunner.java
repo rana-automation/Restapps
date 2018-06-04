@@ -5,7 +5,7 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/test/resources/featurefiles",tags = {"@csgHealthChecker"},
+@CucumberOptions(features = "src/test/resources/featurefiles",tags = {"@csgHealthChecker,@wmsHealthChecker"},
         glue = "",
 
             format = {"json:target/cucumber/report.json", "html:target/cucumber-html-report/"}
