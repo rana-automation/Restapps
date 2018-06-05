@@ -20,7 +20,40 @@
     <favorites_list name="wms_csg" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StefDefLcstx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/StefDefLcstx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lcstxHealthChecker.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/featurefiles/lcstxHealthChecker.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRunner.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/testRunner/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/actions/HealthCheckerParker.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/actions/HerlthCheckerLcstx.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/lcstxStefdef.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/featurefiles/lcstxHealthChecker.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/featurefiles/parkerHealthChecker.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/actions/HealthCheckerLcxtx.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/csgStefdef.java" />
@@ -89,10 +121,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/WmsStefDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/CsgStefDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/CsgStefdef.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cengage/testRunner/TestRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/WmsStefdef.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/StefDefCsg.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/StefDefWms.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/StefDefLcstx.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cengage/testRunner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/featurefiles/lcstxHealthChecker.feature" />
       </list>
     </option>
   </component>
@@ -182,6 +216,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="cengage" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wms_csg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cengage" type="462c0819:PsiDirectoryNode" />
               <item name="stefdefinitions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -200,6 +244,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wms_csg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="featurefiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,22 +448,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="98" y="89" width="1400" height="779" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993573" weight="0.3292683" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5022388" side_tool="true" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.24626866" side_tool="true" visible="true" weight="0.56318253" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8753213" weight="0.47696477" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7544776" weight="0.33853355" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.75373137" visible="true" weight="0.56318253" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24328358" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4977612" visible="true" weight="0.32917318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.24328358" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4977612" weight="0.32917318" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5023585" side_tool="true" weight="0.24328358" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32917318" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -428,20 +481,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/actions/HealthCheckerCsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/actions/HealthCheckerCsg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -579,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/featurefiles/lcstxHealthChecker.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/featurefiles/ifvsHealthChecker.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -688,13 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/testRunner/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/StefDefCsg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -716,6 +741,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/StefDefBulkUpload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/stefdefinitions/StefDefLcstx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/featurefiles/lcstxHealthChecker.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cengage/testRunner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
